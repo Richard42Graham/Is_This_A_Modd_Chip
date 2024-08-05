@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "PUSB3FR4")(type "KiCad")(uri "${KIPRJMOD}/Footprints/PUSB3FR4/PUSB3FR4.kicad_sym")(options "")(descr ""))
+  (lib (name "675024321321")(type "KiCad")(uri "${KIPRJMOD}/Footprints/675024321321/675024321321.kicad_sym")(options "")(descr ""))
+)
